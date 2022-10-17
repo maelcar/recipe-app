@@ -10,10 +10,6 @@ App to find recipes. Technologies I have used: Javascript, HTML, CSS.
 * [Portfolio web]()
 * [Linkedin]()
 
-## View App online
-[https://maelcar.github.io/recipe-app/](https://maelcar.github.io/recipe-app/)
-
-
 
 ## Install
 This App doesn't require installation, click on index.html
